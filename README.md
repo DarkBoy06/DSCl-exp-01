@@ -1,4 +1,4 @@
-# DSCl-EXP-01
+# DSCL-EXP-01
 Short Description: This C program initializes a variable var with an integer value 19, a variable var1 with a floating-point value 3.14, and a variable char1 with a character value 'H'. Then the program prints the value of var as an integer, the value of var1 as a float, and the value of char1 as a character.
 
 Algorithm:
